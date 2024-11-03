@@ -22,7 +22,7 @@ function Hero() {
             Full Stack Developer
           </h3>
           <p>
-          I'm a Full Stack Developer specializing in the MERN stack and Tailwind CSS, dedicated to building clean and scalable applications. With a focus on delivering dynamic user experiences, I'm passionate about creating efficient solutions that elevate every project. Let's build something great together!
+          I'm a Full Stack Developer specializing in the MERN stack and Tailwind CSS, dedicated to building scalable applications and dynamic user experiences. Let's build something great together!
 
 
           </p>
